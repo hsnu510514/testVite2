@@ -7,7 +7,7 @@
       <img src="${n}" class="logo vanilla" alt="TypeScript logo" />
     </a>
     <h1>Vite + TypeScript</h1>
-    <h1>Vite + TypeScript</h1>
+    <h1>Vite2 + TypeScript2</h1>
     <div class="card">
       <button id="counter" type="button"></button>
     </div>
